@@ -1,0 +1,5 @@
+{
+  "name": "Offline Notification Log",
+  "description": "A standalone, offline-first PWA for logging notifications with LocalStorage persistence.",
+  "requestFramePermissions": []
+}

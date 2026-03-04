@@ -1,0 +1,21 @@
+{
+  "name": "Offline Notification Log",
+  "short_name": "NotifyLog",
+  "description": "A standalone, offline-first PWA for logging notifications.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/notify/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/notify/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
